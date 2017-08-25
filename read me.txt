@@ -1,0 +1,9 @@
+1. all python files are implemented with python 2.7 on spyder platform
+2. due to insuffiency of internet, the input.xlsx file has been read upto 50 rows
+
+phase code 1:
+	the input excel file is Input.xlsx
+	the output file is output phase 1.xlsx
+phase code 2:
+	the input excel file is output phase 1.xlsx	
+	the output excel file is output phase 2.xlsx
